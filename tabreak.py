@@ -11,7 +11,7 @@ import subprocess
 number_of_breaks = 0
 max_breaks = 3
 intervall = 10
-url = 'http://www.youtube.com/watch?v=pIgZ7gMze7A'
+url = 'https://www.youtube.com/watch?v=pIgZ7gMze7A'
 
 # loop until number in max_breaks is reached
 while number_of_breaks < max_breaks:
