@@ -1,4 +1,4 @@
-# take-a-break-miniproject
+# fullstack-take-a-break-miniproject
 opens a webbrowser at timed intervalls
 
 ### demonstrates how quick one can do useful programs with python
